@@ -3,6 +3,12 @@ ADF ingestion framework
 
 ![image](https://user-images.githubusercontent.com/62758564/138203452-9588d01a-0ae3-4ee3-b754-ab84a9c6d9b5.png)
 
+1.	**Insert scripts from excel format.xlsx ** --- Provides easy way to update the control table
+2.	**Meta data and Stored procedure for the framework.docx ** --- This needs to be run in your target database
+3.	**pl_end_to_end_history.zip ** --- Pipelines for end to end history loads
+4.	**pl_end_to_end_incremental.zip ** --– Pipelines for end to end incremental loads
+
+
 ![image](https://user-images.githubusercontent.com/62758564/138203194-f0f1e18c-fa75-4d54-b7e1-48575965770b.png)
 
 ![image](https://user-images.githubusercontent.com/62758564/138202927-780f4350-6ee0-4f94-828b-45b9919bd4eb.png)
